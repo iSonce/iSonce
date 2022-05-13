@@ -3,4 +3,4 @@
 - 🎓 Studying software engineering at [SCUT](https://www.scut.edu.cn)
 - 🖥 Learning Front-end
 - ⚡ JavaScript / ~~C++~~
-- :mailbox: sssssonce@gmail.com
+- :mailbox: Contact me by email: sssssonce@gmail.com
